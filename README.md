@@ -1,2 +1,1 @@
-# HAEC
-## *Hardware Accelerated Edge Classification*
+# *H*ardware *A*ccelerated *E*dge *C*lassification
