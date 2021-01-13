@@ -1,6 +1,5 @@
-# *H*ardware *A*ccelerated *E*dge *C*lassification
-AIの学習済みデータを用いて、FPGAで分類計算をさせる事を目的にしたプロジェクト.
-FPGAを使うメリットとしては以下の事がある.
+# **H**ardware **A**ccelerated **E**dge **C**lassification
+AIの学習済みデータを用いて,FPGAで分類計算をさせる事を目的にしたプロジェクト.
 
 - 高速
 - 省電力
