@@ -1,3 +1,4 @@
 import numpy as np
-import pacndas as pd
+import pandas as pd
 import matplotlib as plt
+
